@@ -1,5 +1,9 @@
 # Bank Telemarketing Campaign
 -----------
+Created by: 
+- Aprian Handayanai
+- Clarenti Celsia
+- Gian Habli Maulana
 
 ## Business Understanding
 Sebuah lembaga keuangan di Portugal sedang berupaya meningkatkan strategi pemasarannya untuk produk deposito berjangka. Mereka telah menjalankan beberapa kampanye pemasaran sebelumnya, namun tingkat keberhasilannya masih belum optimal.
